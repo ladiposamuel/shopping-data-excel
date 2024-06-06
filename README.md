@@ -26,7 +26,7 @@ Missing Values: I noticed that there were about 10 missing values in the custome
 ![Missing Customer ID](missingcustomerid.png)
 
 There were also some missing values in the colour column of the dataset. Since this is a categorical data, I filled the blank cells with “UNKNOWN”, using the find and replace feature in excel. This was done to minimise errors in the analysis
-![Colour Category](colourcategoryblank.png)
+![Colour Category](colourcategoryblanks.png)
 
 ### Step 3
 Input Errors: There were some worngly inputed values, I came to this conclusion because of some unrealistic ages in the age column, '280' and '3100' to be specific. I corrected this by adjusting the numbers manually to be 28 and 31. 
