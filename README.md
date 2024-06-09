@@ -62,13 +62,6 @@ From the analysis, I was able to create a dashboard that would help the marketin
 ![Dashboard](Dashboard.png)
 The dashboard contains metrics that I believe are vital to helping the marketing team, such as the Total Sales By Category, Top 10 Total Sales By Product, Highest Selling Colours, Shipping methods. And I added a slicer which helps us know how each of these performed in different seasons.
 
-![FallDashboard](FallDashboard.png)
-
-![SpringDashboard](SpringDashboard.png)
-
-![SummerDashboard](SummerDashboard.png)
-
-![WinterDashboard](WinterDashboard.png)
 
 So from these we see that we have the highest number of transactions during the Spring season, but the highest number of processed payments during the Fall season. This could be an indication that during the Fall season things could be more expensive. This and many other insights can be drawn from the dashboard. 
 
