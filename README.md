@@ -44,16 +44,16 @@ Multiple naming structure: In the category column of the dataset. I noticed that
 The total number of rows in the dataset is 3901 which can be referred to as the number of transactions that was recorded. From the Purchase Amount (USD) column it was discovered that the total amount processed from all 3901 transactions was $ 231,132 (Two Hundred and thirty-one thousand, one Hundred and thirty-two) dollars. 
 In relation to the problem statement, I began my analysis using the Pivot tables
 
-![Category](SalesByCategory.png)
-The highest selling category according to the dataset is the clothing category with a total of $104,315 and the least performing category is the Outerwear category with a total sale of $18,524. This could be as a result of many factors, one of which includes that clothing is more essential than outer wears regardless of the weather condition, Outer wears are more of a necessity during the winter season, so many people might not have need of them until during the winter season
+![Category](TransactionByCategory.png)
+The highest selling category according to the dataset is the clothing category with a total of 1738 transactions and the least performing category is the Outerwear category with a total sale of 324 transactions. This could be as a result of many factors, one of which includes that clothing is more essential than outer wears regardless of the weather condition, Outer wears are more of a necessity during the winter season, so many people might not have need of them until during the winter season
 
-![Product](SalesByProduct.png)
+![Product](TransactionByProduct.png)
 The Highest selling products are displayed above and blouses are the highest, but not by much of a margin. So it is obvious from the chart that many of the highest selling products e.g sunglasses, shorts, scarf, dress, blouse, shirt, sweater etc are clothing materials that used during the Fall, spring and summer season 
 
-![Season](SalesBySeason.png)
-Analyzing the total sales made by season, the data shows that the highest sales occurs during the Fall season with a total sale of $60,018 and the lowest sale being recorded in the summer with a total sale of $55,777. This is in agreement with the initial analysis of the sales by product and sales by category, the highest sales in according to category and product are clothing materials that are most likely used during the Fall season. So it would make a lot of sense for the fall season to have the highest number of sales.
+![Season](TransactionBySeason.png)
+Analyzing the total sales made by season, the data shows that the highest number of transactions occurs during the Spring season with a total transaction of 1000 and the lowest number of transactions being recorded in the summer with a total transaction of 955.
 
-![Shipping](ShippingMethods.png)
+![Shipping](TransactionByShipping.png)
 Now looking at the method of delivery, from the chart, we can see how many transactions are done by each of the delivery methods. Although the margin is not much, more people tend to make transactions using the free shipping option. The free shipping option has the highest number of transactions with a total of 675. While the least used shipping method is the 2-Day shipping method with the number of transactions equaling 627. 
 
 ### Results
