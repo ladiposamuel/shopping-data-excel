@@ -65,4 +65,4 @@ The dashboard contains metrics that I believe are vital to helping the marketing
 
 So from these we see that we have the highest number of transactions during the Spring season, but the highest number of processed payments during the Fall season. This could be an indication that during the Fall season things could be more expensive. This and many other insights can be drawn from the dashboard. 
 
-This is where I would end my analysis of the dataset. My recommendation to the marketing team would be to focus their campaign on driving sales during the fall season and also they could make more availability to the Free shipping  mode of delivery especially during the winter season to drive up sales during the winter. 
+This is where I would end my analysis of the dataset. My recommendation to the marketing team would be to focus their campaign on driving sales during the fall and spring seasons and also they could make more availability to the Free shipping  mode of delivery especially during the winter season to drive up trnasactions and sales during the winter. 
